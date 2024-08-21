@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Web Development, and Software Engineering.
 - 🌱 I’m currently learning advanced AI algorithms, full-stack development, and cloud computing.
 - 💞️ I’m looking to collaborate on open-source AI projects or any web development initiatives.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikhil-baswal/), [Email](nikhilbaswal7127@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikhil-baswal-5bb835315/), [Email](nikhilbaswal7127@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing cricket, basketball, and volleyball. I also have a knack for learning new languages and coding challenges.
 
